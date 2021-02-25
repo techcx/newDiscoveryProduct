@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Automated test for discovery product",
+  "main": "y",
+  "dependencies": {
+    "cypress": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runTest": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "Charlie Fad",
+  "license": "ISC"
+}
