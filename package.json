@@ -9,7 +9,11 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "runTest": "./node_modules/.bin/cypress open"
+    "opendiscovery": "./node_modules/.bin/cypress open",
+    "rundiscovery": "./node_modules/.bin/cypress open",
+    "rundashboard": "./node_modules/.bin/cypress run --record --key ea062827-0a3e-46f5-b673-6f334bf8e1bc"
+    
+    
   },
   "repository": {
     "type": "git",
